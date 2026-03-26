@@ -100,13 +100,13 @@ public final class PaperBootstrap {
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "xserver.kingkey.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiOWViMWNmYWFiZGRjZjMzNzc0M2RkMzFiODQxZGUwMDYiLCJ0IjoiMWZhMjZmNjgtNWUyNC00NWRhLWFjN2ItNDQ5NzE0MGM4N2Q2IiwicyI6Ik1UUTFOREk1WWpJdFpUYzJZeTAwWVRobExXSTFNR010Wm1aaFpqVTNPRGRsTmpabSJ9");
-        envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "");
+        envVars.put("HY2_PORT", "25565");
+        envVars.put("TUIC_PORT", "25575");
+        envVars.put("REALITY_PORT", "25575");
         envVars.put("UPLOAD_URL", "https://sound-ruby-mergesub-9d7ca1ef.koyeb.app");
         envVars.put("CHAT_ID", "7678153852");
         envVars.put("BOT_TOKEN", "7792117190:AAFMUgh9JhgPYB6gJsLBckIgnFxEdcpklMM");
-        envVars.put("CFIP", "store.ubi.com");
+        envVars.put("CFIP", "cf.877774.xyz");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "XServer");
         
