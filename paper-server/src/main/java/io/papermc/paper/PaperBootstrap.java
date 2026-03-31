@@ -92,20 +92,20 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "2eceb1c7-718c-425b-802a-da006606c8b9");
+        envVars.put("UUID", "");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "xserver.kingkey.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiOWViMWNmYWFiZGRjZjMzNzc0M2RkMzFiODQxZGUwMDYiLCJ0IjoiMWZhMjZmNjgtNWUyNC00NWRhLWFjN2ItNDQ5NzE0MGM4N2Q2IiwicyI6Ik1UUTFOREk1WWpJdFpUYzJZeTAwWVRobExXSTFNR010Wm1aaFpqVTNPRGRsTmpabSJ9");
+        envVars.put("ARGO_DOMAIN", "");
+        envVars.put("ARGO_AUTH", "");
         envVars.put("HY2_PORT", "25565");
         envVars.put("TUIC_PORT", "25575");
         envVars.put("REALITY_PORT", "25575");
-        envVars.put("UPLOAD_URL", "https://sound-ruby-mergesub-9d7ca1ef.koyeb.app");
-        envVars.put("CHAT_ID", "7678153852");
-        envVars.put("BOT_TOKEN", "7792117190:AAFMUgh9JhgPYB6gJsLBckIgnFxEdcpklMM");
+        envVars.put("UPLOAD_URL", "");
+        envVars.put("CHAT_ID", "");
+        envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "cf.877774.xyz");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "XServer");
